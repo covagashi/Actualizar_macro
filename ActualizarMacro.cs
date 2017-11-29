@@ -1,3 +1,4 @@
+//Eplan electric
 
 using Eplan.EplApi.ApplicationFramework;
 using Eplan.EplApi.Scripting;
@@ -15,5 +16,5 @@ public class Class
     }
 }
 
-    
+
 
