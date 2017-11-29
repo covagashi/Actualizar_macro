@@ -8,5 +8,11 @@ Este script es ejecutable, sirve para actualizar macros.
   ExecuteScript /ScriptFile:C:\Users\Public\EPLAN\Data\Scripts\Actualizarmacro.cs
     
 ```
+Si la ruta tiene algún espacio entre medio usar " "
+  ```[C#]
+
+  ExecuteScript /ScriptFile:"C:\Users\Public\EPLAN ELECTRIC\Data\Scripts\Actualizarmacro.cs"
+    
+```
 Es un codigo basico y simple que te  ahorra tiempo.
 
